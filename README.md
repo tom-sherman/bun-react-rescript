@@ -7,7 +7,7 @@ This is a React project using ReScript boostrapped with bun.
 ### Cloning the repo
 
 ```sh
-bun create react ./app
+bun create react-rescript ./app
 ```
 
 ### Development
