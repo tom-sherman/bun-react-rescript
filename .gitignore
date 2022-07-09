@@ -30,3 +30,11 @@ package-lock.json
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# ReScript
+/lib/
+.bsb.lock
+.merlin
+
+# Remove the following line if you wish to checkin built files.
+src/**/*.bs.js
